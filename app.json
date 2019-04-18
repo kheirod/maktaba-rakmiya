@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "maktaba-rakmiya",
+  "scripts": {
+  },
+  "stack": "heroku-16"
+}
